@@ -134,7 +134,7 @@ class CIDEmailSender:
 def main():
     # Example usage
     recipients = [  # Changed to a list of dictionaries
-        
+        {"name":"SAMPLE","email":"@gmail.com","role":"SOFTWARE DEVELOPER"/"XR DEVELOPER "}
 
         # Add more recipients as needed
     ]
